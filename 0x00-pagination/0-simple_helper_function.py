@@ -4,4 +4,4 @@ Simple helper function
 """
 
 def index_range(page, page_size):
-    return(start, end)
+    return(page, page_size)
